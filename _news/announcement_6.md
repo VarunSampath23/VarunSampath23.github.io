@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Exciting News! I have been awarded a 100,000 DKK research visit grant from The Werner and Parthum Foundation. I am sincerely grateful for their generous support and look forward to the opportunities this research visit will bring. Stay tuned for more exciting research updates are coming soon!
+Exciting News! I have been awarded a 100,000 DKK travel grant from The Grethe and Werner Parthum Foundation. I am sincerely grateful for their generous support and look forward to the opportunities this research visit will bring. Stay tuned for more exciting research updates are coming soon!
